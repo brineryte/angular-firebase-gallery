@@ -1,6 +1,19 @@
 # AngularFirebaseGallery
 
+A photo gallery app written originally by [Wes Doyle](https://github.com/wesdoyle). It uses Angular 4 for frontend and Firebase for Storage and Authentication. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
+
+## Versions
+
+@angular/cli: 1.4.3
+node: 6.11.2
+
+npm: 3.10.10
+
+TypeScript: 2.5.3
+
+firebase (not necessary outside of the project): 3.13.0
 
 ## Development server
 
